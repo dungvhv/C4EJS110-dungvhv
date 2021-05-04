@@ -1,0 +1,34 @@
+
+
+#body2{
+    padding-right: 20px;
+    min-height: 30px;
+    text-align: center;
+    border-color: #eee;
+    border-radius: 8px;
+    outline: unset;
+}
+h1{
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    
+}
+#body{
+    text-align: center;
+    background-color: darkturquoise;
+    width: 500px;
+    height: 110px;
+    
+}
+#body3{
+    padding: 10px;
+    min-width: 40px;
+    border-radius: 8px;
+    background: chartreuse;
+}
+#body1{
+    padding: 10px;
+}
